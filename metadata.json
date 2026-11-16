@@ -1,0 +1,6 @@
+{
+  "name": "Flickora AI",
+  "description": "Flickora AI Studio — Premium AI advertisement videos, creative posters, professional voiceovers, and instant AI ad concept demos for businesses, shops, and products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

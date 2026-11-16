@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flickora AI</string>
+    <string name="studio_brand_name">Flickora AI Studio</string>
+    <string name="studio_tagline">Create • Edit • Inspire</string>
+
+    <string name="nav_studio">Studio</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_demo_lab">Demo Lab</string>
+    <string name="nav_contact">Contact</string>
+
+    <string name="cd_brand_emblem">Flickora AI Studio Emblem</string>
+    <string name="cd_hero_studio">Flickora AI Studio Production Stage</string>
+    <string name="cd_showcase_ai_model">AI Model Advertisement Showcase</string>
+    <string name="cd_showcase_product">Product Advertisement Video Showcase</string>
+    <string name="cd_showcase_shop">Shop Advertisement and Poster Showcase</string>
+    <string name="cd_whatsapp_icon">WhatsApp Contact</string>
+    <string name="cd_instagram_icon">Instagram Profile</string>
+    <string name="cd_toggle_language">Switch Language</string>
+    <string name="cd_close_sheet">Close details</string>
+
+    <string name="sample_ai_notice_title">Sample Studio Mode</string>
+    <string name="sample_ai_notice_body">Live Gemini AI generation requires Firebase AI Logic. Showing curated sample ad concepts.</string>
+    <string name="sample_ai_notice_body_gu">લાઇવ Gemini AI માટે Firebase AI Logic જરૂરી છે. હાલમાં સેમ્પલ સ્ટુડિયો કોન્સેપ્ટ બતાવી રહ્યા છીએ.</string>
+
+    <string name="toast_copied">Copied to clipboard</string>
+    <string name="toast_no_app_found">No compatible app found to open this link.</string>
+</resources>
